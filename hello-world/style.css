@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+Img{
+    border: groove beige 2em;
+    display:block
+}
+
+ul{display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1em;
+    list-style-type: none;
+
+}
